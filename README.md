@@ -40,12 +40,12 @@ QQ group: 813015912
 ![6_source_page](https://github.com/OtakuRoom/documents/assets/128728619/3c5b8e78-b3f4-4eb2-baa9-fb4b33edad11)
 ![7_task_page](https://github.com/OtakuRoom/documents/assets/128728619/2a8cf97f-22ed-4d8b-9ad4-fe9b2a56fba2)
 
-> The above screenshots are for demonstrate only, we does **NOT** provide an official source. All sources are shared by users. We strongly recommend that you join the telegram or QQ groups and get the sharing of other users
+> The above screenshots are for demonstrate only, we does **NOT** provide an official source. All sources are shared by users. We strongly recommend that you join the telegram or QQ groups and get the sharing of other users.
 
 ---
 
-Please do not use this software to share content prohibited by the laws and regulations of the jurisdiction.
+## Statement
 
-This software is still in the development and testing stage, and the functions in the software may be changed at any time.
-
-This software is commercial software. Without the express permission of this software, no one may copy or imitate this software or establish a server mirror image on a server that does not belong to this software. All content and technologies developed by itself or jointly developed with others The means and services have all intellectual property rights, and no one may infringe or destroy them, nor use them without authorization.
+* Please do not use this software to share content prohibited by the laws and regulations of the jurisdiction.
+* This software is still in the development and testing stage, and the functions in the software may be changed at any time.
+* This software is commercial software. Without the express permission of this software, no one may copy or imitate this software or establish a server mirror image on a server that does not belong to this software. All content and technologies developed by itself or jointly developed with others The means and services have all intellectual property rights, and no one may infringe or destroy them, nor use them without authorization.
