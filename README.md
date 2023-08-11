@@ -13,7 +13,7 @@ A free software for creating and sharing photo albums based on a distributed enc
 
 ## Install
 
-Install from Microsoft App Store: https://apps.microsoft.com/store/detail/otaku-room/9MXC37MK6069
+Install from Microsoft App Store: https://apps.microsoft.com/store/detail/otakuroom/9MXC37MK6069
 
 ## Features
 
