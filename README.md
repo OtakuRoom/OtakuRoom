@@ -37,10 +37,10 @@ QQ group: 813015912
 ![3_scene_page](https://github.com/OtakuRoom/documents/assets/128728619/603b1c45-054a-4f16-86ed-4738982dcaec)
 ![4_scene_edit_face_page](https://github.com/OtakuRoom/documents/assets/128728619/1e0d62cd-d84a-4eae-a532-e761273abbb2)
 ![5_workshop_page](https://github.com/OtakuRoom/documents/assets/128728619/3986f64a-3c1f-4fae-88eb-16fe4e7d9321)
-![6_source_page](https://github.com/OtakuRoom/documents/assets/128728619/3c5b8e78-b3f4-4eb2-baa9-fb4b33edad11)
+![6_source_page](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/985a3dcd-0491-4d5b-8719-74bc038c425b)
 ![7_task_page](https://github.com/OtakuRoom/documents/assets/128728619/2a8cf97f-22ed-4d8b-9ad4-fe9b2a56fba2)
 
-> The above screenshots are for demonstrate only, we does **NOT** provide an official source. All sources are shared by users. We strongly recommend that you join the telegram or QQ groups and get the sharing of other users.
+> The above screenshots are for demonstration only, we does **NOT** provide an official source. All sources are shared by users. We strongly recommend that you join the Telegram or QQ groups and get the sharing of other users.
 
 ---
 
