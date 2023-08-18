@@ -6,7 +6,7 @@
 
 [English](./README.md) / 简体中文
 
-A free software for creating and sharing photo albums using distributed encryption technology
+A free software for creating and sharing photo albums using distributed encryption technology  
 一款采用分布式加密技术，用于创作与分享相册的免费软件
 
 </div>
