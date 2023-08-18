@@ -6,8 +6,8 @@
 
 English / [简体中文](./README_CN.md)
 
-A free software for creating and sharing photo albums based on a distributed encrypted network  
-一款基于分布式加密网络的，用于创作和分享相册的免费软件
+A free software for creating and sharing photo albums using distributed encryption technology
+一款采用分布式加密技术，用于创作与分享相册的免费软件
 
 </div>
 
@@ -17,18 +17,17 @@ Install from Microsoft App Store: https://apps.microsoft.com/store/detail/otakur
 
 ## Features
 
-1. Powerful sharing function based on distributed network. The creative workshop of this software adopts a decentralized design, and you can freely share your own creations without the need for a resource server.
-2. Data encryption. This software attaches great importance to user privacy. Whether it is a personal local creation or a creation shared on the Internet, it is encrypted and cannot be read by a third party.
-3. AI face recognition model specially trained for ACG characters.
-4. The AI ​​image upscale technology specially designed for the ACG image, small images will not be blurred after upscale.
-5. Powerful image compression technology can identify similar images based on image features, and combine and compress similar images, which greatly improves the image compression rate.
+* Sharing function based on distributed network. This software adopts a decentralized design, and you can freely share your own creations without the need for a resource server.
+* Data encryption. This software attaches great importance to user privacy. Whether it is a personal local creations or a creation shared on the Internet, it is encrypted and cannot be read by a third party.
+* AI face recognition model specially trained for 2D characters.
+* AI image upscale technology specially designed for 2D images. Small pictures will not be blurred after upscale.
+* Powerful image compression technology. It can identify similar pictures according to the picture features, and combine and compress similar pictures, which greatly improves the picture compression rate.
 
 ## Sharing and Communication
 
-Please join the group and share your creation
-
-Telegram: https://t.me/iamotakuroom  
-QQ group: 813015912
+Please join the group and share your creations(very important):
+* Telegram: https://t.me/iamotakuroom
+* QQ group: 813015912
 
 ## Some Screenshots
 
