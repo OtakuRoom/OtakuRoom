@@ -6,8 +6,8 @@
 
 [English](./README.md) / 简体中文
 
-A free software for creating and sharing photo albums based on a distributed encrypted network  
-一款基于分布式加密网络的，用于创作和分享相册的免费软件
+A free software for creating and sharing photo albums using distributed encryption technology
+一款采用分布式加密技术，用于创作与分享相册的免费软件
 
 </div>
 
@@ -17,18 +17,19 @@ A free software for creating and sharing photo albums based on a distributed enc
 
 ## 软件特色
 
-1. 基于分布式网络的强大的分享功能。本软件的创意工坊采用了去中心化的设计，不需要资源服务器，即可自由分享自己的创作。
-2. 数据加密。本软件重视用户隐私，无论是个人的本地作品，还是分享到网络上的作品，都经过数据加密，第三方无法读取。
-3. 专为二次元人物而训练的 AI 脸部识别模型。
-4. 专为二次元图片打造的 AI 图片放大技术，小图片放大后也不会模糊。
-5. 强大的图片压缩技术，能够根据图片特征，识别出相似的图片，并对相似图片合并压缩，极大提高了图片压缩率。
+* 基于分布式网络的分享功能。本软件采用了去中心化的设计，不需要资源服务器，即可自由分享自己的作品。
+* 数据加密。本软件重视用户隐私，无论是个人的本地作品，还是分享到网络上的作品，都经过加密处理，第三方无法读取。
+* 专为二次元人物而训练的 AI 脸部识别模型。
+* 专为二次元图片打造的 AI 图片放大技术。小图片放大后也不会模糊。
+* 强大的图片压缩技术。能够根据图片特征，识别出相似的图片，并对相似图片合并压缩，极大地提高了图片压缩率。
 
 ## 分享交流
 
 请加入群组分享您的创作
 
-QQ 群：813015912  
-电报群：https://t.me/iamotakuroom
+请加入群组分享您的创作（非常重要）：
+* QQ 群：813015912
+* 电报群：https://t.me/iamotakuroom
 
 ## 一些截图
 
