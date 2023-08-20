@@ -6,10 +6,14 @@
 
 English / [简体中文](./README_CN.md)
 
-A free software for creating and sharing photo albums using distributed encryption technology  
-一款采用分布式加密技术，用于创作与分享相册的免费软件
+Create albums, Share freely, Distributed network, Protect privacy, ACG, AI  
+制作相册, 自由分享, 分布式, 保障隐私, 数据加密, 二次元, AI
 
 </div>
+
+## Introduction
+
+"OtakuRoom" is a software for creating and sharing photo albums, free and no Ads. It innovatively adopts distributed encryption technology. Users can freely share their creations, all data is encrypted, and would not upload to the server, which fully protects user privacy.
 
 ## Install
 
@@ -17,17 +21,35 @@ Install from Microsoft App Store: https://apps.microsoft.com/store/detail/otakur
 
 ## Features
 
-* Sharing function based on distributed network. This software adopts a decentralized design, and you can freely share your own creations without the need for a resource server.
-* Data encryption. This software attaches great importance to user privacy. Whether it is a personal local creations or a creation shared on the Internet, it is encrypted and cannot be read by a third party.
-* AI face recognition model specially trained for 2D characters.
-* AI image upscale technology specially designed for 2D images. Small pictures will not be blurred after upscale.
-* Powerful image compression technology. It can identify similar pictures according to the picture features, and combine and compress similar pictures, which greatly improves the picture compression rate.
+##### Create albums
+
+- Optimize the organization of albums: In addition to albums and pictures, we have introduced a scene layer. A scene is composed of one or more related pictures, and a scene tells a moving story. (In the future, it will also support adding short videos, music, text, particle effects and wave effects, etc., and will also support setting scenes as live wallpapers, so stay tuned)
+- A lot of optimizations have been made for the ACG: AI face recognition model specially trained for 2D characters; AI image enlargement technology specially designed for ACG pictures; lossless compression algorithm specially designed for ACG pictures.
+
+##### Share album
+
+- Innovatively based on a distributed network, create an album sharing function: decentralized design, no resource server required, and resources are permanently valid!
+- Support album download: We encourage you to download the album to the local hard disk, after all, your own is the best.
+- Support album sync: After the author updates the album, the album that has been downloaded to the local can also be updated synchronously.
+
+##### Protect privacy
+
+- Protect user privacy: the server will not save unnecessary user information, and the shared creations and user information will be desensitized and cannot be reverse tracked.
+- Encrypt Sensitive data: Whether it is a personal local creations or a creation shared on the network, it is encrypted and cannot be read by third-party software.
+
+##### AI technology
+
+- AI face recognition model specially trained for 2D characters.
+- AI image upscale technology specially designed for ACG images. Small pictures will not be blurred after upscale.
+- Powerful image compression technology: It can identify similar images based on image features, and combine and compress similar images, which greatly improves the image compression rate.
 
 ## Sharing and Communication
 
 Please join the group and share your creations(very important):
-* Telegram: https://t.me/iamotakuroom
-* QQ group: 813015912
+
+- Telegram: https://t.me/iamotakuroom
+- QQ group: 813015912
+- Website: https://www.otakuroom.top
 
 ## Some Screenshots
 
@@ -45,6 +67,6 @@ Please join the group and share your creations(very important):
 
 ## Statement
 
-* Please do not use this software to share content prohibited by the laws and regulations of the jurisdiction.
-* This software is still in the development and testing stage, and the functions in the software may be changed at any time.
-* This software is commercial software. Without the express permission of this software, no one may copy or imitate this software or establish a server mirror image on a server that does not belong to this software. All content and technologies developed by itself or jointly developed with others The means and services have all intellectual property rights, and no one may infringe or destroy them, nor use them without authorization.
+- Please do not use this software to share content prohibited by the laws and regulations of the jurisdiction.
+- This software is still in the development and testing stage, and the functions in the software may be changed at any time.
+- This software is commercial software. Without the express permission of this software, no one may copy or imitate this software or establish a server mirror image on a server that does not belong to this software. All content and technologies developed by itself or jointly developed with others The means and services have all intellectual property rights, and no one may infringe or destroy them, nor use them without authorization.
