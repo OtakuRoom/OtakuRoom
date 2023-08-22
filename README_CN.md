@@ -55,7 +55,7 @@ Create albums, Share freely, Distribute network, Protect privacy, ACG, AI
 ## 一些截图
 
 ![zh_albumAll_1692686745759](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/6306d571-6317-4bdc-b1d6-aaa5d5306ea2)
-![zh_albumOne_1692686750892](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/1d86b792-fe64-4706-b474-a71f78e3b3f8)
+![zh_albumOne_1692710478872](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/11b5e4ca-d730-4bf5-adbd-2c88ec35f7eb)
 ![zh_albumScene_1692686773763](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/e1fdcc0a-7684-4b19-b5bf-047e72aa2cb1)
 ![zh_albumSceneEditFace_1692686778498](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/bc266563-4c02-4cd6-848b-ba48dc175e00)
 ![zh_albumWorkshop_1692686785778](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/97217e58-f315-498e-9246-44fde240ee7c)
