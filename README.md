@@ -53,13 +53,12 @@ Please join the group and share your creations(very important):
 
 ## Some Screenshots
 
-![1_all_album_page](https://github.com/OtakuRoom/documents/assets/128728619/ee553217-f8e6-4752-b290-e0b95dd53c8a)
-![2_album_page](https://github.com/OtakuRoom/documents/assets/128728619/de733854-4fd4-4403-8038-265e0e025d99)
-![3_scene_page](https://github.com/OtakuRoom/documents/assets/128728619/603b1c45-054a-4f16-86ed-4738982dcaec)
-![4_scene_edit_face_page](https://github.com/OtakuRoom/documents/assets/128728619/1e0d62cd-d84a-4eae-a532-e761273abbb2)
-![5_workshop_page](https://github.com/OtakuRoom/documents/assets/128728619/3986f64a-3c1f-4fae-88eb-16fe4e7d9321)
-![6_source_page](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/985a3dcd-0491-4d5b-8719-74bc038c425b)
-![7_task_page](https://github.com/OtakuRoom/documents/assets/128728619/2a8cf97f-22ed-4d8b-9ad4-fe9b2a56fba2)
+![en_albumAll_1692686858947](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/7c3719b5-914e-407c-972c-6ce3946fbcc3)
+![en_albumOne_1692686865823](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/9b8da336-31f9-4ab4-978e-daac7a764662)
+![en_albumScene_1692686874061](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/a1afcced-6740-4435-9ccd-dd0e93803f6d)
+![en_albumSceneEditFace_1692686887388](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/4486dba6-a666-4c86-96ff-8629a3380569)
+![en_albumWorkshop_1692686894021](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/bb5232fb-5b8d-4cd7-bce5-8d0ffa51e237)
+![en_sourceManagement_1692686899932](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/652fcf51-6b6a-4107-a8ab-6faf4ad16c95)
 
 > The above screenshots are for demonstration only, we does **NOT** provide an official source. All sources are shared by users. We strongly recommend that you join the Telegram or QQ groups and get the sharing of other users.
 
