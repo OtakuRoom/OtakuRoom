@@ -54,7 +54,7 @@ Please join the group and share your creations(very important):
 ## Some Screenshots
 
 ![en_albumAll_1692686858947](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/7c3719b5-914e-407c-972c-6ce3946fbcc3)
-![en_albumOne_1692686865823](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/9b8da336-31f9-4ab4-978e-daac7a764662)
+![en_albumOne_1692710489242](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/a16752f1-da12-4e45-ad32-972d3f3a923a)
 ![en_albumScene_1692686874061](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/a1afcced-6740-4435-9ccd-dd0e93803f6d)
 ![en_albumSceneEditFace_1692686887388](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/4486dba6-a666-4c86-96ff-8629a3380569)
 ![en_albumWorkshop_1692686894021](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/bb5232fb-5b8d-4cd7-bce5-8d0ffa51e237)
