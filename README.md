@@ -13,7 +13,7 @@ Create albums, Share freely, Distributed network, Protect privacy, ACG, AI
 
 ## Introduction
 
-"OtakuRoom" is a software for creating and sharing photo albums, free and no Ads. It innovatively adopts distributed encryption technology. Users can freely share their creations, all data is encrypted, and would not upload to the server, which fully protects user privacy.
+"OtakuRoom" is a software for creating and sharing albums, free and no Ads. It innovatively adopts distributed encryption technology. Users can freely share their creations, all data is encrypted, and would not upload to the server, which fully protects user privacy.
 
 ## Install
 
@@ -52,15 +52,11 @@ Please join the group and share your creations(very important):
 - Website: https://www.otakuroom.top
 
 ## Some Screenshots
-
-![en_albumAll_1692686858947](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/7c3719b5-914e-407c-972c-6ce3946fbcc3)
-![en_albumOne_1692710958002](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/c7c160c2-84dc-4a7f-a7ae-d77cb3e11d65)
-![en_albumScene_1692686874061](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/a1afcced-6740-4435-9ccd-dd0e93803f6d)
-![en_albumSceneEditFace_1692686887388](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/4486dba6-a666-4c86-96ff-8629a3380569)
-![en_albumWorkshop_1692686894021](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/bb5232fb-5b8d-4cd7-bce5-8d0ffa51e237)
-![en_sourceManagement_1692686899932](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/652fcf51-6b6a-4107-a8ab-6faf4ad16c95)
-
-> The above screenshots are for demonstration only, we does **NOT** provide an official source. All sources are shared by users. We strongly recommend that you join the Telegram or QQ groups and get the sharing of other users.
+![en_workshop_1696178917769](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/54c29506-45b6-4b3e-ad5a-8a5ccf787f1d)
+![en_albumStorage_1696178886138](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/2c1d18f8-119f-4c85-813b-4ae390520505)
+![en_album_1696178891451](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/a050895a-fa5e-486c-bbdb-575915968ca8)
+![en_albumScene_1696178907727](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/fc0ffd0b-bb35-4adc-8787-7bf03232265b)
+![en_sourceSettings_1696178923868](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/240cf4fe-a33a-41bd-a189-423abf6201a9)
 
 ---
 
