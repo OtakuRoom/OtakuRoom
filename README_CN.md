@@ -54,14 +54,11 @@ Create albums, Share freely, Distribute network, Protect privacy, ACG, AI
 
 ## 一些截图
 
-![zh_albumAll_1692686745759](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/6306d571-6317-4bdc-b1d6-aaa5d5306ea2)
-![zh_albumOne_1692710478872](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/11b5e4ca-d730-4bf5-adbd-2c88ec35f7eb)
-![zh_albumScene_1692686773763](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/e1fdcc0a-7684-4b19-b5bf-047e72aa2cb1)
-![zh_albumSceneEditFace_1692686778498](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/bc266563-4c02-4cd6-848b-ba48dc175e00)
-![zh_albumWorkshop_1692686785778](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/97217e58-f315-498e-9246-44fde240ee7c)
-![zh_sourceManagement_1692686792208](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/72773e67-cbb4-46f5-a8b5-4a4f31e3e62b)
-
-> 以上截图只用于展示，我们**不**提供官方源，所有源都来自于用户分享。我们强烈建议你加入 QQ 或者电报群，获取其他用户的分享。
+![zh_workshop_1696178957340](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/8cb09a9f-9490-4988-b9bf-ac880c1aa2de)
+![zh_albumStorage_1696178937069](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/f60936a8-f19e-4e5e-9ec0-e368b34aa570)
+![zh_album_1696178945913](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/fee5c3c4-7eaf-45b9-b948-b4755e6c1f5c)
+![zh_albumScene_1696178949654](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/e47ffa4e-cdbd-4eb3-91c8-7ea0a4a9397c)
+![zh_sourceSettings_1696178965565](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/bddbc730-4544-40b2-ade8-24e818bb73cb)
 
 ---
 
