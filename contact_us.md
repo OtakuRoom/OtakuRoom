@@ -2,4 +2,5 @@
 
 Any questions about our products, please contact us through these channels
 
-- Email：otakuroomapp@gmail.com([Copy](copy:otakuroomapp@gmail.com))
+- Telegram: https://t.me/iamotakuroom
+- QQ group: [813015912](copy:813015912)
