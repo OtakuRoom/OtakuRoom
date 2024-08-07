@@ -45,11 +45,11 @@ Install from Microsoft App Store: https://apps.microsoft.com/store/detail/otakur
 
 ## Sharing and Communication
 
-Please join the group and share your creations(very important):
+Please join the group and share your creations:
 
 - Telegram: https://t.me/iamotakuroom
-- QQ group: 813015912
 - Website: https://www.otakuroom.top
+- Twitter: https://twitter.com/IamOtakuRoom
 
 ## Some Screenshots
 ![en_workshop_1696178917769](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/54c29506-45b6-4b3e-ad5a-8a5ccf787f1d)
