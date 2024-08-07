@@ -48,9 +48,9 @@ Create albums, Share freely, Distribute network, Protect privacy, ACG, AI
 
 请加入群组分享您的创作（非常重要）：
 
-- QQ 群：813015912
 - 电报群：https://t.me/iamotakuroom
 - 网站：https://www.otakuroom.top
+- 推特：https://twitter.com/IamOtakuRoom
 
 ## 一些截图
 
