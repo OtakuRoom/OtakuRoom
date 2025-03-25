@@ -50,7 +50,7 @@ Create albums, Share freely, Distribute network, Protect privacy, ACG, AI
 
 - 邮箱：otakuroom@outlook.com
 - 电报群: https://t.me/iamotakuroom
-- Discord：https://discord.gg/CFaqAypG
+- Discord: https://discord.gg/CFaqAypG
 - X(推特): https://twitter.com/IamOtakuRoom
 - 网站：https://www.otakuroom.top
 

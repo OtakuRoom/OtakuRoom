@@ -4,5 +4,5 @@
 
 - 邮箱：otakuroom@outlook.com
 - 电报群: https://t.me/iamotakuroom
-- Discord：https://discord.gg/CFaqAypG
+- Discord: https://discord.gg/CFaqAypG
 - X(推特): https://twitter.com/IamOtakuRoom
