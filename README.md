@@ -49,7 +49,7 @@ Please join the group and share your creations:
 
 - Email：otakuroom@outlook.com
 - Telegram: https://t.me/iamotakuroom
-- Discord: https://discord.gg/CFaqAypG
+- Discord: https://discord.gg/HPFpxRS2Pn
 - X(Twitter): https://twitter.com/IamOtakuRoom
 - Website: https://www.otakuroom.top
 
