@@ -50,8 +50,8 @@ Please join the group and share your creations:
 - Email：otakuroom@outlook.com
 - Telegram: https://t.me/iamotakuroom
 - Discord: https://discord.gg/HPFpxRS2Pn
-- X(Twitter): https://twitter.com/IamOtakuRoom
-- Website: https://www.otakuroom.top
+- X(Twitter): https://x.com/IamOtakuRoom
+- Website: https://www.otakuroom.net
 
 ## Some Screenshots
 ![en_workshop_1696178917769](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/54c29506-45b6-4b3e-ad5a-8a5ccf787f1d)
