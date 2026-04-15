@@ -15,9 +15,9 @@ Create albums, Share freely, Distribute network, Protect privacy, ACG, AI
 
 《御宅室》是一款用于制作与分享相册的软件，免费且无广告。它创新性地采用了分布式加密技术。用户可以自由分享作品，所有数据都经过加密处理，且无需上传到服务器，充分保障用户隐私。
 
-## 安装
+## 下载
 
-从微软应用商店下载和安装：https://apps.microsoft.com/store/detail/otakuroom/9MXC37MK6069
+https://www.otakuroom.net
 
 ## 软件特色
 
@@ -44,9 +44,7 @@ Create albums, Share freely, Distribute network, Protect privacy, ACG, AI
 - 强大的图片压缩技术：能够根据图片特征，识别出相似的图片，并对相似图片合并压缩，极大地提高了图片压缩率。
 - 更多 AI 玩法，敬请期待！
 
-## 分享交流
-
-请加入群组分享您的创作（非常重要）：
+## 交流
 
 - 邮箱：otakuroom@outlook.com
 - 电报群: https://t.me/iamotakuroom
@@ -56,11 +54,11 @@ Create albums, Share freely, Distribute network, Protect privacy, ACG, AI
 
 ## 一些截图
 
-![zh_workshop_1696178957340](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/8cb09a9f-9490-4988-b9bf-ac880c1aa2de)
-![zh_albumStorage_1696178937069](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/f60936a8-f19e-4e5e-9ec0-e368b34aa570)
-![zh_album_1696178945913](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/fee5c3c4-7eaf-45b9-b948-b4755e6c1f5c)
-![zh_albumScene_1696178949654](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/e47ffa4e-cdbd-4eb3-91c8-7ea0a4a9397c)
-![zh_sourceSettings_1696178965565](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/bddbc730-4544-40b2-ade8-24e818bb73cb)
+<img width="1216" height="809" alt="zh_创意工坊_1776268501593" src="https://github.com/user-attachments/assets/2344a176-d12c-45f3-91bc-d8c0aeaed43d" />
+<img width="1216" height="809" alt="zh_相册页_1776267686229" src="https://github.com/user-attachments/assets/8c44d6cc-e627-4ad2-9edb-ea07566829e5" />
+<img width="1216" height="809" alt="zh_创意工坊_1776267699544" src="https://github.com/user-attachments/assets/88ac05e4-248e-409d-8d76-8b73b49dec15" />
+<img width="1216" height="809" alt="zh_场景页_1776267694585" src="https://github.com/user-attachments/assets/0d3d3a58-050f-44a6-bb53-c6297b063cc1" />
+<img width="1216" height="809" alt="zh_仓库_1776267670541" src="https://github.com/user-attachments/assets/0dc93ba2-4d92-457b-a8db-1b6787171111" />
 
 ---
 
