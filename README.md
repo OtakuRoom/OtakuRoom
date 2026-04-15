@@ -15,9 +15,9 @@ Create albums, Share freely, Distributed network, Protect privacy, ACG, AI
 
 "OtakuRoom" is a software for creating and sharing albums, free and no Ads. It innovatively adopts distributed encryption technology. Users can freely share their creations, all data is encrypted, and would not upload to the server, which fully protects user privacy.
 
-## Install
+## Website
 
-Install from Microsoft App Store: https://apps.microsoft.com/store/detail/otakuroom/9MXC37MK6069
+https://www.otakuroom.net
 
 ## Features
 
