@@ -43,9 +43,7 @@ Install from Microsoft App Store: https://apps.microsoft.com/store/detail/otakur
 - AI image upscale technology specially designed for ACG images. Small pictures will not be blurred after upscale.
 - Powerful image compression technology: It can identify similar images based on image features, and combine and compress similar images, which greatly improves the image compression rate.
 
-## Sharing and Communication
-
-Please join the group and share your creations:
+## Communication
 
 - Email：otakuroom@outlook.com
 - Telegram: https://t.me/iamotakuroom
@@ -54,11 +52,11 @@ Please join the group and share your creations:
 - Website: https://www.otakuroom.net
 
 ## Some Screenshots
-![en_workshop_1696178917769](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/54c29506-45b6-4b3e-ad5a-8a5ccf787f1d)
-![en_albumStorage_1696178886138](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/2c1d18f8-119f-4c85-813b-4ae390520505)
-![en_album_1696178891451](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/a050895a-fa5e-486c-bbdb-575915968ca8)
-![en_albumScene_1696178907727](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/fc0ffd0b-bb35-4adc-8787-7bf03232265b)
-![en_sourceSettings_1696178923868](https://github.com/OtakuRoom/OtakuRoom/assets/128728619/240cf4fe-a33a-41bd-a189-423abf6201a9)
+<img width="1216" height="809" alt="en_1776267813890" src="https://github.com/user-attachments/assets/0cb872d3-92b6-4da0-8431-109bb551e167" />
+<img width="1216" height="809" alt="en_Workshop_1776267821428" src="https://github.com/user-attachments/assets/e3870284-6213-4e9a-b2af-80bea2912f86" />
+<img width="1216" height="809" alt="en_Storage_1776267789507" src="https://github.com/user-attachments/assets/06d6496a-5bfc-4413-9c1c-8333d219303a" />
+<img width="1216" height="809" alt="en_Scene Page_1776267805727" src="https://github.com/user-attachments/assets/321ce4f3-ded2-42fb-9542-11850d60dcd3" />
+<img width="1216" height="809" alt="en_Album Page_1776267798332" src="https://github.com/user-attachments/assets/f65d30aa-7156-4f03-86b1-7388ad63036a" />
 
 ---
 
